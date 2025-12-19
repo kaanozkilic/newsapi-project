@@ -1,4 +1,4 @@
-## # News Sentiment Analysis Project
+## NewsAPI Sentiment Analysis Project
 
 This project aims to automate the process of gathering news online through using API and making sentiment analysis on gathered news. The sentiment analysis returns if the news have a sentiment of positive, negative or neither. 
 
